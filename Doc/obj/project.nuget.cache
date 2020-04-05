@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zaU90MhaZUJgPM65eidOJ8pHLAYBG/iPNeAfsqs+b78xSVD/7aJX/AFIAcyeYgkgIM+xmAlwrqO3pKBh//q9mQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\petrov.an\\Desktop\\b2x\\b2xtranslator\\Doc\\b2xtranslator.doc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\petrov.an\\.nuget\\packages\\system.io.compression\\4.3.0\\system.io.compression.4.3.0.nupkg.sha512",
+    "C:\\Users\\petrov.an\\.nuget\\packages\\b2xtranslator\\1.0.0\\b2xtranslator.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,9 @@
+C:\Users\petrov.an\Desktop\b2x\b2xtranslator\Common\obj\Debug\net461\b2xtranslator.AssemblyInfoInputs.cache
+C:\Users\petrov.an\Desktop\b2x\b2xtranslator\Common\obj\Debug\net461\b2xtranslator.AssemblyInfo.cs
+C:\Users\petrov.an\Desktop\b2x\b2xtranslator\Common\bin\Debug\net461\b2xtranslator.dll
+C:\Users\petrov.an\Desktop\b2x\b2xtranslator\Common\bin\Debug\net461\b2xtranslator.pdb
+C:\Users\petrov.an\Desktop\b2x\b2xtranslator\Common\bin\Debug\net461\System.IO.Compression.dll
+C:\Users\petrov.an\Desktop\b2x\b2xtranslator\Common\obj\Debug\net461\b2xtranslator.csproj.CopyComplete
+C:\Users\petrov.an\Desktop\b2x\b2xtranslator\Common\obj\Debug\net461\b2xtranslator.dll
+C:\Users\petrov.an\Desktop\b2x\b2xtranslator\Common\obj\Debug\net461\b2xtranslator.pdb
+C:\Users\petrov.an\Desktop\b2x\b2xtranslator\Common\obj\Debug\net461\b2xtranslator.csprojAssemblyReference.cache

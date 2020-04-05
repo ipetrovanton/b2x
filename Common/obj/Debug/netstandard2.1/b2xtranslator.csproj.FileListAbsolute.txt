@@ -1,0 +1,8 @@
+C:\Users\petrov.an\Desktop\b2x\b2xtranslator\Common\bin\Debug\netstandard2.1\b2xtranslator.deps.json
+C:\Users\petrov.an\Desktop\b2x\b2xtranslator\Common\bin\Debug\netstandard2.1\b2xtranslator.dll
+C:\Users\petrov.an\Desktop\b2x\b2xtranslator\Common\bin\Debug\netstandard2.1\b2xtranslator.pdb
+C:\Users\petrov.an\Desktop\b2x\b2xtranslator\Common\obj\Debug\netstandard2.1\b2xtranslator.AssemblyInfoInputs.cache
+C:\Users\petrov.an\Desktop\b2x\b2xtranslator\Common\obj\Debug\netstandard2.1\b2xtranslator.AssemblyInfo.cs
+C:\Users\petrov.an\Desktop\b2x\b2xtranslator\Common\obj\Debug\netstandard2.1\b2xtranslator.dll
+C:\Users\petrov.an\Desktop\b2x\b2xtranslator\Common\obj\Debug\netstandard2.1\b2xtranslator.pdb
+C:\Users\petrov.an\Desktop\b2x\b2xtranslator\Common\obj\Debug\netstandard2.1\b2xtranslator.csprojAssemblyReference.cache

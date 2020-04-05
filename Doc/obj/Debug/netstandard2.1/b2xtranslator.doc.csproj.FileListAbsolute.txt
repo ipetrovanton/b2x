@@ -1,0 +1,11 @@
+C:\Users\petrov.an\Desktop\b2x\b2xtranslator\Doc\bin\Debug\netstandard2.1\b2xtranslator.doc.deps.json
+C:\Users\petrov.an\Desktop\b2x\b2xtranslator\Doc\bin\Debug\netstandard2.1\b2xtranslator.doc.dll
+C:\Users\petrov.an\Desktop\b2x\b2xtranslator\Doc\bin\Debug\netstandard2.1\b2xtranslator.doc.pdb
+C:\Users\petrov.an\Desktop\b2x\b2xtranslator\Doc\bin\Debug\netstandard2.1\b2xtranslator.dll
+C:\Users\petrov.an\Desktop\b2x\b2xtranslator\Doc\bin\Debug\netstandard2.1\b2xtranslator.pdb
+C:\Users\petrov.an\Desktop\b2x\b2xtranslator\Doc\obj\Debug\netstandard2.1\b2xtranslator.doc.csprojAssemblyReference.cache
+C:\Users\petrov.an\Desktop\b2x\b2xtranslator\Doc\obj\Debug\netstandard2.1\b2xtranslator.doc.AssemblyInfoInputs.cache
+C:\Users\petrov.an\Desktop\b2x\b2xtranslator\Doc\obj\Debug\netstandard2.1\b2xtranslator.doc.AssemblyInfo.cs
+C:\Users\petrov.an\Desktop\b2x\b2xtranslator\Doc\obj\Debug\netstandard2.1\b2xtranslator.doc.csproj.CopyComplete
+C:\Users\petrov.an\Desktop\b2x\b2xtranslator\Doc\obj\Debug\netstandard2.1\b2xtranslator.doc.dll
+C:\Users\petrov.an\Desktop\b2x\b2xtranslator\Doc\obj\Debug\netstandard2.1\b2xtranslator.doc.pdb

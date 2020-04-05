@@ -1,0 +1,15 @@
+C:\Users\petrov.an\Desktop\b2x\b2xtranslator\Shell\doc2x\bin\Debug\netcoreapp2.0\doc2x.deps.json
+C:\Users\petrov.an\Desktop\b2x\b2xtranslator\Shell\doc2x\bin\Debug\netcoreapp2.0\doc2x.runtimeconfig.json
+C:\Users\petrov.an\Desktop\b2x\b2xtranslator\Shell\doc2x\bin\Debug\netcoreapp2.0\doc2x.runtimeconfig.dev.json
+C:\Users\petrov.an\Desktop\b2x\b2xtranslator\Shell\doc2x\bin\Debug\netcoreapp2.0\doc2x.dll
+C:\Users\petrov.an\Desktop\b2x\b2xtranslator\Shell\doc2x\bin\Debug\netcoreapp2.0\doc2x.pdb
+C:\Users\petrov.an\Desktop\b2x\b2xtranslator\Shell\doc2x\bin\Debug\netcoreapp2.0\b2xtranslator.dll
+C:\Users\petrov.an\Desktop\b2x\b2xtranslator\Shell\doc2x\bin\Debug\netcoreapp2.0\b2xtranslator.doc.dll
+C:\Users\petrov.an\Desktop\b2x\b2xtranslator\Shell\doc2x\bin\Debug\netcoreapp2.0\b2xtranslator.doc.pdb
+C:\Users\petrov.an\Desktop\b2x\b2xtranslator\Shell\doc2x\bin\Debug\netcoreapp2.0\b2xtranslator.pdb
+C:\Users\petrov.an\Desktop\b2x\b2xtranslator\Shell\doc2x\obj\Debug\netcoreapp2.0\doc2x.csprojAssemblyReference.cache
+C:\Users\petrov.an\Desktop\b2x\b2xtranslator\Shell\doc2x\obj\Debug\netcoreapp2.0\doc2x.AssemblyInfoInputs.cache
+C:\Users\petrov.an\Desktop\b2x\b2xtranslator\Shell\doc2x\obj\Debug\netcoreapp2.0\doc2x.AssemblyInfo.cs
+C:\Users\petrov.an\Desktop\b2x\b2xtranslator\Shell\doc2x\obj\Debug\netcoreapp2.0\doc2x.csproj.CopyComplete
+C:\Users\petrov.an\Desktop\b2x\b2xtranslator\Shell\doc2x\obj\Debug\netcoreapp2.0\doc2x.dll
+C:\Users\petrov.an\Desktop\b2x\b2xtranslator\Shell\doc2x\obj\Debug\netcoreapp2.0\doc2x.pdb

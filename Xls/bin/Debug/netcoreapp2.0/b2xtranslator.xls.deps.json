@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "b2xtranslator.xls/1.0.0": {
+        "dependencies": {
+          "b2xtranslator": "2.0.0"
+        },
+        "runtime": {
+          "b2xtranslator.xls.dll": {}
+        }
+      },
+      "b2xtranslator/2.0.0": {
+        "runtime": {
+          "b2xtranslator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "b2xtranslator.xls/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "b2xtranslator/2.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

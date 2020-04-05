@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "b2xtranslator/2.0.0": {
+        "runtime": {
+          "b2xtranslator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "b2xtranslator/2.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+C:\Users\petrov.an\Desktop\b2x\b2xtranslator\Xls\bin\Debug\netcoreapp2.0\b2xtranslator.xls.deps.json
+C:\Users\petrov.an\Desktop\b2x\b2xtranslator\Xls\bin\Debug\netcoreapp2.0\b2xtranslator.xls.dll
+C:\Users\petrov.an\Desktop\b2x\b2xtranslator\Xls\bin\Debug\netcoreapp2.0\b2xtranslator.xls.pdb
+C:\Users\petrov.an\Desktop\b2x\b2xtranslator\Xls\bin\Debug\netcoreapp2.0\b2xtranslator.dll
+C:\Users\petrov.an\Desktop\b2x\b2xtranslator\Xls\bin\Debug\netcoreapp2.0\b2xtranslator.pdb
+C:\Users\petrov.an\Desktop\b2x\b2xtranslator\Xls\obj\Debug\netcoreapp2.0\b2xtranslator.xls.csprojAssemblyReference.cache
+C:\Users\petrov.an\Desktop\b2x\b2xtranslator\Xls\obj\Debug\netcoreapp2.0\b2xtranslator.xls.AssemblyInfoInputs.cache
+C:\Users\petrov.an\Desktop\b2x\b2xtranslator\Xls\obj\Debug\netcoreapp2.0\b2xtranslator.xls.AssemblyInfo.cs
+C:\Users\petrov.an\Desktop\b2x\b2xtranslator\Xls\obj\Debug\netcoreapp2.0\b2xtranslator.xls.csproj.CopyComplete
+C:\Users\petrov.an\Desktop\b2x\b2xtranslator\Xls\obj\Debug\netcoreapp2.0\b2xtranslator.xls.dll
+C:\Users\petrov.an\Desktop\b2x\b2xtranslator\Xls\obj\Debug\netcoreapp2.0\b2xtranslator.xls.pdb

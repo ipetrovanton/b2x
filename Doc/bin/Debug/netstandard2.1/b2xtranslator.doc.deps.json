@@ -1,0 +1,37 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.1/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.1": {},
+    ".NETStandard,Version=v2.1/": {
+      "b2xtranslator.doc/1.0.0": {
+        "dependencies": {
+          "b2xtranslator": "1.0.0"
+        },
+        "runtime": {
+          "b2xtranslator.doc.dll": {}
+        }
+      },
+      "b2xtranslator/1.0.0": {
+        "runtime": {
+          "b2xtranslator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "b2xtranslator.doc/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "b2xtranslator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
